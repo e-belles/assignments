@@ -1,2 +1,2 @@
 # assignments
-Assignments for Economic Analysis 1, 2016
+Assignments for Applied Economic Analysis 1, 2016
